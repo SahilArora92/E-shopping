@@ -1,0 +1,28 @@
+body{
+    background-color:#404040;
+}
+h1{
+    color:white;
+}
+caption{
+    color:white;
+}
+a{
+    font-style: italic;
+}
+ th{
+                background-color:#FFFFE0;
+            }
+a:link{
+    color:white
+    
+}
+a:visited{
+    color:white;
+}
+a:active{
+   color:white;
+}
+a:hover{
+    font-size: 20px;
+}

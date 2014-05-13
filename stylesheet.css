@@ -1,0 +1,140 @@
+
+
+#header{
+
+height:100px;
+width:900px;
+float: left;
+alignment-baseline: central;
+ 
+}
+#myCanvas{
+    background-color:no;
+   
+}
+.myButtonRed {
+	background-color:#44c767;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	padding:5px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButtonRed:hover {
+	background-color:#5cbf2a;
+}
+.myButtonRed:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton {
+	background-color:#44c767;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:arial;
+	font-size:17px;
+	padding:5px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+#loginform{
+	color:white;
+	font-size:25px;
+	font-family:Ariel;
+    height:140px;
+    float: right;
+    padding-right: 110px;
+    padding-top: 25px;
+    padding-left: 110px;
+    padding-bottom: 25px;
+    background-color:no;
+}
+#master{
+
+postion:fixed;
+margin-top:10px;
+margin-left: 40px;
+margin-bottom: 50px;}
+
+.fruits{
+border-style:solid;
+border-color:#404040;
+border-width:2px;
+padding:0px;
+border-radius: 15%;
+background-color:#404040;
+height:220px;
+width:220px;
+display:inline-block;
+margin:20px;
+
+}
+
+
+
+h1{
+font-size:40px;
+}
+
+img{
+height:200px;
+width:200px;
+}
+
+
+
+.list{
+   
+    font-family: fantasy;
+    font-size: medium;
+}
+a{
+    text-decoration: none;
+}
+a:hover
+            {   font-size: large;
+                font-variant: diagonal-fractions;
+            }
+            a:link
+            {
+            color:green;    
+            }
+            a:visited
+            {
+                color:white;
+            }
+            a:active
+            {
+                color:darkgoldenrod;
+            }
+            .sub{
+                cursor: pointer;
+            }
+            
+            .sub:hover:after{
+                border:ridge;
+            }
